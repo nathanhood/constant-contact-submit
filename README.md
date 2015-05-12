@@ -1,5 +1,7 @@
-# Constant Contat Form Submit
+# Constant Contact Form Submit
 
+Used to submit a form from ExpressionEngine (Free Form) to a Constant
+Contact account
 
 ## License
 
